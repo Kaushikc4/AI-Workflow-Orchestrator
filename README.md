@@ -125,3 +125,8 @@ flowchart TD
     C --> D[Translate Output]
     D --> E[Send Notification]
     E --> F[Return Final Result]
+
+```
+---
+### 🖼️ UI Preview
+![App Screenshot](images/AI Workflow screenshot.png)
