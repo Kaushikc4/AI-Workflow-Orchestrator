@@ -129,4 +129,4 @@ flowchart TD
 ```
 ---
 ### 🖼️ UI Preview
-![App Screenshot](images/AI Workflow screenshot.png)
+![App Screenshot](images/AI%20Workflow%20screenshot.png)
